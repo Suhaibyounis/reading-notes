@@ -8,6 +8,8 @@
 5. Don’t stop until you achieve your goals
 6. Thinking progress leads you to more creativity and possibility
 
+***
+
 # Think, ask, search, try whatever you get and at the end you will achieve your goals.
 
 **Reminders**
