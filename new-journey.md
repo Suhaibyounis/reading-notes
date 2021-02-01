@@ -5,6 +5,8 @@
 * Learn something new
 * Explain what you need to be good ***Programmer***
 
+***
+
 ## What we learn
 
 **1. HTML**
@@ -16,6 +18,7 @@
 **3. JS**
 * How to make the Site Functionally
 
+***
 
 ## Text Editor and Code Editor
 
