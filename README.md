@@ -18,4 +18,4 @@
 3. Try to achieve 
 
 
-[]{https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png}
+![]{https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png}
