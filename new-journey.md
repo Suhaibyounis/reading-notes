@@ -41,11 +41,11 @@ numbers | Commands | Function
 3- | one star * * | Italic text
 4- | two star ** ** | bold text
 5- | three stars ****** | bold and italic
-6- | link tag [ ]( ) | link to internet page
+6- | link tag " []() " | link to internet page
 7- | star * | unordered list
 8- | numbers 1 | ordered list
 9- | three stars *** | make line
-10- | link image ![]() | showing an image
+10- | link image " ![]() " | showing an image
 11- | two back quotes `` | make the word highlited
 
 
