@@ -1,6 +1,6 @@
 # Growth Mindset
 
-## **Groth mindset**
+## **Growth mindset**
 1. The beging always the hardest somethings
 2. It’s the able to work smarter 
 3. Facing problem and find the best solution
