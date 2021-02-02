@@ -58,3 +58,7 @@ numbers | Commands | Function
 ## Thank You for Interesting
 
 [github](https://suhaibyounis.github.io/reading-notes/git)
+
+***
+
+[growth-mindset](https://suhaibyounis.github.io/reading-notes/growth-mindset)
