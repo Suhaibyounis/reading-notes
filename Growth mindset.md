@@ -17,5 +17,4 @@
 2. Don't give up 
 3. Try to achieve 
 
-
 ![open me](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
