@@ -9,5 +9,3 @@
 [programming](https://suhaibyounis.github.io/reading-notes/programming)
 
 ***
-
-[achievments](https://suhaibyounis.github.io/reading-notes/achievments)
