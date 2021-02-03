@@ -17,7 +17,7 @@ and the greatest one is **code completion**, which allows you to:
 * **syntax** highlighting: making coloring for the text you typed.
 * **themes** allows you to change the background of the text editor, series of color in your test and make editing for text in other editing software.
 
-### since you get more experience, you need the text editor to become bigger with you and this could ### Extension.
+### since you get more experience, you need the text editor to become bigger with you and this could Extension.
 
 ### Extensions are like a plugins allows you to make the text editor have more power to do what you want.
 
