@@ -13,3 +13,5 @@
 [achievments](https://suhaibyounis.github.io/reading-notes/achievments)
 
 ***
+
+[texteditor](https://suhaibyounis.github.io/reading-notes/texteditor)
