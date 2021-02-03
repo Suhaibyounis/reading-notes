@@ -50,3 +50,53 @@ we can use these text editors to make websites and some other text editor we can
 
 * **IDEs** "Integrated Development Environment" is different software coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package
 
+***
+***
+
+# Using Terminal
+
+## The Command line
+It's where you can type the text and present it.
+
+## Opening Terminal
+Every Operating system has particular way to open the terminal.
+
+## The Shell, Bash
+a part of the system the shoq how the terminal will be looks like after running.
+
+## you have too many shourtcuts in terminals that help you to du what you want.
+
+***
+
+## Navigation
+it's the way how to deal with system and moving in it.
+
+## Commands
+* pwd : the location where you are in.
+* ls : the total folders and files in the directory.
+* cd : change the directory.
+* [] : the item inside is optional
+
+## Paths
+* single dash / : the first thing in the root directory.
+* tilde - : shourtcut for home directory.
+* dot . : reference to the current directory.
+* dotdot .. : reference to the parent directory.
+
+***
+
+## Files
+
+### Everything is a file
+* Text file is file, folder is file, directory is file, ...
+
+### linux working without extension.
+* we can use command file [ bath ] to find the for the file.
+* we can use the same name for more than one file, with letters of different case.
+* we can't add space in the naming of files, folders, ...
+* anything inside the Quotes '--- ---' is a single item.
+* when we put backslash "\" between two words , it will cancle the space between them.
+* any file or folder start with ".!", thats mean that hidden file or folder.
+
+
+
