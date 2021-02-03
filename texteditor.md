@@ -99,4 +99,4 @@ it's the way how to deal with system and moving in it.
 * any file or folder start with ".!", thats mean that hidden file or folder.
 
 
-
+[back](https://suhaibyounis.github.io/reading-notes/)

@@ -18,3 +18,6 @@
 3. Try to achieve 
 
 ![open me](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
+
+
+[back](https://suhaibyounis.github.io/reading-notes/)
