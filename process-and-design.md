@@ -44,6 +44,8 @@ A wireframe is a simple sketch of the key information that needs to go on each p
 
 ### You can differentiate between pieces of information using size, color, and style.
 
+***
 
+[Back](https://suhaibyounis.github.io/reading-notes/)
 
 
