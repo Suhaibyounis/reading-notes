@@ -3,16 +3,16 @@
 ### The use of headings and subheadings in any document often reflects a hierarchy of information.
 
 ## HTML Describes the Structure of Pages
-  < html >
-     < head>
-      < title>
+< html >
+ < head>
+   < title>
     < /head>
-    < body>
-     < h1>
-           < p>
-     < h2>
-        < p>
-     < /body>
+ < body>
+   < h1>
+     < p>
+    < h2>
+     < p>
+ < /body>
   < /html>
 
 
