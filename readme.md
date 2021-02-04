@@ -1,17 +1,20 @@
-[growth-mindset](https://suhaibyounis.github.io/reading-notes/growth-mindset)
+[Growth Mindset](https://suhaibyounis.github.io/reading-notes/growth-mindset)
 
 ***
 
-[github](https://suhaibyounis.github.io/reading-notes/git)
+[Github](https://suhaibyounis.github.io/reading-notes/git)
 
 ***
 
-[programming](https://suhaibyounis.github.io/reading-notes/programming)
+[Programming](https://suhaibyounis.github.io/reading-notes/programming)
 
 ***
 
-[achievments](https://suhaibyounis.github.io/reading-notes/achievments)
+[Achievments](https://suhaibyounis.github.io/reading-notes/achievments)
 
 ***
 
-[texteditor](https://suhaibyounis.github.io/reading-notes/texteditor)
+[Texteditor](https://suhaibyounis.github.io/reading-notes/texteditor)
+
+***
+[Process and Dedign](https://suhaibyounis.github.io/reading-notes/process-and-design)
