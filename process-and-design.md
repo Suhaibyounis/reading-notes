@@ -40,9 +40,9 @@ A wireframe is a simple sketch of the key information that needs to go on each p
 * Grouping
 * Similarity
 
-## Visual hierarchy helps visitors understand what you are trying to tell them.
+### Visual hierarchy helps visitors understand what you are trying to tell them.
 
-## You can differentiate between pieces of information using size, color, and style.
+### You can differentiate between pieces of information using size, color, and style.
 
 
 
