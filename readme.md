@@ -17,8 +17,17 @@
 [Texteditor](https://suhaibyounis.github.io/reading-notes/texteditor)
 
 ***
+
 [Process and Dedign](https://suhaibyounis.github.io/reading-notes/process-and-design)
 
 ***
 
 [Structure](https://suhaibyounis.github.io/reading-notes/structure)
+
+***
+
+[HTML5](https://suhaibyounis.github.io/reading-notes/html5)
+
+***
+
+[Development of HTML](https://suhaibyounis.github.io/reading-notes/development-of-html)
