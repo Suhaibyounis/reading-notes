@@ -3,18 +3,18 @@
 ### The use of headings and subheadings in any document often reflects a hierarchy of information.
 
 ## HTML Describes the Structure of Pages
-"   <html>
-     <head>
-      <title>
-    </head>
-    <body>
-     <h1>
-           <p>
-     <h2>
-        <p>
-     </body>
-    </html>
-"
+  < html >
+     < head>
+      < title>
+    < /head>
+    < body>
+     < h1>
+           < p>
+     < h2>
+        < p>
+     < /body>
+  < /html>
+
 
 ### characters that inside angled brackets these are called *HTML elements*. Elements are usually made up of two tags: an opening tag and a closing tag.
 
