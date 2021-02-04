@@ -18,3 +18,7 @@
 
 ***
 [Process and Dedign](https://suhaibyounis.github.io/reading-notes/process-and-design)
+
+***
+
+[Structure](https://suhaibyounis.github.io/reading-notes/structure)
