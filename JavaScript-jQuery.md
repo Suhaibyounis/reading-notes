@@ -1,4 +1,4 @@
-## How the JavaScribt make the webpages interactive?
+## How the JavaScript make the webpages interactive?
 
 * We used JavaScribt to make the webpage interactive by accessing and modifying the webpage.
 
@@ -14,8 +14,8 @@
 ### REACT TO EVENTS
 * You can specify that a script should run when a specific event has occurred.
 
-### Examples of JavaScribt:
-### [JavaScribt](interactivate.jpg)
+### Examples of JavaScript:
+### [JavaScript](interactivate.jpg)
 
 ### [JavaScribt1](JavaScribt1.jpg)
 
@@ -23,13 +23,13 @@
 
 ## The ABC of Programming:
 
-1. Definition of Scribt:
+1. Definition of Script:
 A script is a series of instructions that a computer can follow to achieve a goal.
 
 * Script made up of instructions; a computer can follow step by step.
 * The Webpage may be used different parts of the Script depening on how the user interacts with the webpage.
 
-### Writing Scribt
+### Writing Script
 * You need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 
 * The Script is a series of short instructions, each of which is performed in order to solve the problem.
@@ -49,7 +49,7 @@ A script is a series of instructions that a computer can follow to achieve a goa
 ***
 
 ## EXPRESSIONS.
-* Types of Expeessions:
+* Types of Expressions:
 1. EXPRESSIONS that just assign a value to a variable.
 
 2. Expressions that use two or more values to return a single value.
@@ -63,7 +63,6 @@ A script is a series of instructions that a computer can follow to achieve a goa
 ### [Variables_math](variables_math.jpg)
 
 ***
-
 
 ## FUNCTIONS
 * ***Functions*** used to group a series of statements together to perform a specific task.
@@ -81,5 +80,4 @@ A script is a series of instructions that a computer can follow to achieve a goa
 * **Return value**: The expected answer that function will provide you.
 
 ### [return](return.png)
-
 
