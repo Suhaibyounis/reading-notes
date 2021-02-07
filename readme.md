@@ -31,3 +31,7 @@
 ***
 
 [Development of HTML](https://suhaibyounis.github.io/reading-notes/development-of-html)
+
+***
+
+[JavaScript](https://suhaibyounis.github.io/reading-notes/JavaScript-jQuery)
