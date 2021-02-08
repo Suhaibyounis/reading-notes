@@ -1,4 +1,4 @@
-## Comparison  Operators
+## Comparison Operators
 1. Equal to " == "
 * Operator compares two values ( numberwms, strings,Booleans) to see if they are *the same*.
 
@@ -27,16 +27,16 @@
 
 ***
 
-## Logical Opeeators
+## Logical Operators
 * Comparison operators return single values of *true* or *false*.
 
 ![Logical](logical.jpg)
 
 1. Logical and "&&"
-* The Operator test more than one condition.
+* The Operator tests more than one condition.
 
 2. Logical Or "||"
-* The Operator test at least one condition.
+* The Operator tests at least one condition.
 
 3. Logical not "!"
 * The Operator takes a single Boolean value and inverts it.
@@ -45,14 +45,14 @@
 
 ## Loops
 
-* Loops checks a condition. if it returns true, a code block will run, and so on will repeat until the condition returns fslse.
+* Loops check a condition. If it returns true, a code block will run, and so on will repeat until the condition returns fslse.
 
 ### Types of Loops:
-1. For, used to run code a spevific numbers of times.
+1. For, used to run code a specific numbers of times.
 
 2. While, if you don't know how many times the code should run.
 
-3. Do While, similar to the while loop, but it will always run the statements inside the curly braces at least once, even the condition evalutes to fslse.
+3. Do While, similar to the while loops, but it will always run the statements inside the curly braces at least once, even the condition evalutes to fslse.
 
 ### Loops Counters
 * **For** Loop uses a counter as a condution, and this tell the code to run a specified numbers of times.
@@ -68,6 +68,8 @@
 * **While** Loop will continue to run for as long as the condition in parentheses is **true**.
 
 ![while-loop](while-loop.jpg)
+
+
 
 
 
