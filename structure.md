@@ -28,4 +28,6 @@
 
 * This website allows you to enter a title for the page, another box for the main article, a way to enter a publication date, and something to indicate which section of thesite this page belongs in.
 
+***
 
+[Back](https://suhaibyounis.github.io/reading-notes/)

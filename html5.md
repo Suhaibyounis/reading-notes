@@ -24,3 +24,7 @@ Is introducing a new set of elements that help define the structure of a page.
 
 ### html5 Example
 [HTML5](https://www.freecodecamp.org/news/content/images/2020/01/html-examples.jpeg)
+
+***
+
+[Back](https://suhaibyounis.github.io/reading-notes/)
