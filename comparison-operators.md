@@ -23,14 +23,14 @@
 8. Less than or equal to "<="
 * Operator checks if the numbers on the lift is *less than or equal to* the numbers on the right.
 
-[Comparison-operators](Comparison-operators.jpg)
+![Comparison-operators](Comparison-operators.jpg)
 
 ***
 
 ## Logical Opeeators
 * Comparison operators return single values of *true* or *false*.
 
-[Logical](logical.jpg)
+![Logical](logical.jpg)
 
 1. Logical and "&&"
 * The Operator test more than one condition.
@@ -67,7 +67,7 @@
 
 * **While** Loop will continue to run for as long as the condition in parentheses is **true**.
 
-[while-loop](while-loop.jpg)
+![while-loop](while-loop.jpg)
 
 
 
