@@ -1,9 +1,9 @@
 ## Comparison Operators
 1. Equal to " == "
-* Operator compares two values ( numberwms, strings,Booleans) to see if they are *the same*.
+* Operator compares two values ( numbers, strings,Booleans) to see if they are *the same*.
 
 2. Not equal to "!="
-* Operator compares two values ( numberwms, strings,Booleans) to see if they are *not the same*.
+* Operator compares two values ( numbers, strings,Booleans) to see if they are *not the same*.
 
 3. Strict Equal to "==="
 * Operator compares two check that both the data type and values are *the same*.
