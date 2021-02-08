@@ -35,3 +35,7 @@
 ***
 
 [JavaScript](https://suhaibyounis.github.io/reading-notes/JavaScript-jQuery)
+
+***
+
+[Logical Operators](https://suhaibyounis.github.io/reading-notes/comparison-operators)
