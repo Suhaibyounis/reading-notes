@@ -39,3 +39,7 @@
 ***
 
 [Logical Operators](https://suhaibyounis.github.io/reading-notes/comparison-operators)
+
+***
+
+[Color](https://suhaibyounis.github.io/reading-notes/color)
