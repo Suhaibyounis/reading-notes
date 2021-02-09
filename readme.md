@@ -42,4 +42,8 @@
 
 ***
 
+[Functions](https://suhaibyounis.github.io/reading-notes/function)
+
+***
+
 [Color](https://suhaibyounis.github.io/reading-notes/color)
