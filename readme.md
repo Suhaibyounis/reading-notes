@@ -23,8 +23,8 @@
 15-  |  |  
 
 
-| **Code 102 Reading Notes**
-**Numbers** | **Assigment-name**
+ **Code 102 Reading Notes**
+
 1.  [Growth Mindset](https://suhaibyounis.github.io/reading-notes/growth-mindset)
 2.  [Github](https://suhaibyounis.github.io/reading-notes/git)
 3.  [Programming](https://suhaibyounis.github.io/reading-notes/programming)
