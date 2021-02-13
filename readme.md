@@ -1,7 +1,9 @@
 # Code 201 Reading Notes
 
 * Reading Notes for 102 and 201 Courses.
-|   **Code 201 Reading Notes** |
+
+**Code 201 Reading Notes**
+
 **Numbers** | **Assigment-name** | **Link**  
 ------- | -------- | --------
 1- |  |   
