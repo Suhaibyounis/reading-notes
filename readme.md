@@ -4,9 +4,9 @@
 
 **Code 201 Reading Notes**
 
-**Numbers** | **Assigment-name** | **Link**  
+**Numbers** | **Assigment-name** | **Date**  
 ------- | -------- | --------
-1- | [Revision] | (https://suhaibyounis.github.io/reading-notes/revision)
+1- | [Revision](https://suhaibyounis.github.io/reading-notes/revision) | 14-02-2021
 2- |  |   
 3- |  |   
 4- |  |   
