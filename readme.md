@@ -6,7 +6,7 @@
 
 **Numbers** | **Assigment-name** | **Link**  
 ------- | -------- | --------
-1- |  |   
+1- | [Revision] | (https://suhaibyounis.github.io/reading-notes/revision)
 2- |  |   
 3- |  |   
 4- |  |   
