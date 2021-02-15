@@ -30,7 +30,7 @@
 ## Nested List
 * You can put a second list inside an < li> element to create a sublist or nested list.
 
-[Nested-List](nested-list.jpg)
+[Nested-List](images/nested-list.jpg)
 
 ***
 ***
