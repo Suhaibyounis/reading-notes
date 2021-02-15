@@ -99,7 +99,7 @@ The < s> element indicates something that is no longer accurate or relevant (but
 
 * CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
 
-![Properties](201/images/properties.jpg)
+[Properties](201/images/properties.jpg)
 
 ## Using External CSS
 * < link>:  The < link> element can be used in an HTML document to tell  he browser where to find the CSS file used to style the page.
