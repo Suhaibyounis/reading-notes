@@ -7,7 +7,7 @@
 **Numbers** | **Assigment-name** | **Date**  
 ------- | -------- | --------
 1- | [Revision](https://suhaibyounis.github.io/reading-notes/revision) | 14-02-2021
-2- | [HTML-Text,CSS-Introduction,and-Basic-JavaScript-Instructions] | (https://suhaibyounis.github.io/reading-notes/201/class-02)  
+2- | [HTML-Text-CSS-Introduction-and-Basic-JavaScript-Instructions](https://suhaibyounis.github.io/reading-notes/201/class-02) | 15-02-2021
 3- |  |   
 4- |  |   
 5- |  |   
