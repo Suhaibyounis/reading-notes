@@ -10,13 +10,13 @@
 * The ordered list is created with the < ol> element.
 * Each item in the list is placed in between an opening < li> tag and a closing </ li> tag.
 
-[List](images/list.jpg)
+![List](images/list.jpg)
 
 ## Unordered Lists
 * The unordered list is created with the < ul> element.
 * Each item in the list is placed between an opening < li> tag and a closing </ li> tag.
 
-[Unordered-List](images/unordered-list.jpg)
+![Unordered-List](images/unordered-list.jpg)
 
 ## Definition Lists
 * **< dl>** The definition list is created with the < dl> element and usually consists of a series of terms and their definitions.
@@ -25,12 +25,12 @@
 
 * **dd** This is used to contain the definition.
 
-[Definition-lists](images/definition-of-list.jpg)
+![Definition-lists](images/definition-of-list.jpg)
 
 ## Nested List
 * You can put a second list inside an < li> element to create a sublist or nested list.
 
-[Nested-List](images/nested-list.jpg)
+![Nested-List](images/nested-list.jpg)
 
 ***
 ***
@@ -47,7 +47,7 @@
 1. To set your own dimensions for a box you can use the height and width properties.
 2. The most popular ways to specify the size of a box are to use pixels, percentages, or ems.
 
-[Box-Dimensions](images/box-dimensions.jpg)
+![Box-Dimensions](images/box-dimensions.jpg)
 
 ## Limiting Width
 * min-width, max-width
@@ -55,12 +55,12 @@
 
 2. The max-width property indicates the maximum width a  box can stretch to when the browser window is wide.
 
-[Limiting-Width](images/limiting-width.jpg)
+![Limiting-Width](images/limiting-width.jpg)
 
 ## Limiting Height
 * In the same way that you might want to limit the width of a box on a page, you may also want to limit the height of it.
 
-[limiting-height](images/limiting-height.jpg)
+![limiting-height](images/limiting-height.jpg)
 
 ## Overflowing Content
 * The overflow property tells the browser what to do if the content contained within a box is larger than the box itself.
@@ -70,7 +70,7 @@
 
 ## Border, Margin & Padding
 
-[Borders](images/borders.jpg)
+![Borders](images/borders.jpg)
 
 ## White space & Vertical Margin
 * The padding and margin properties are very helpful in adding space between various items on the page.
@@ -212,21 +212,21 @@ the gap between boxes. Its value is commonly given in pixels, although you may a
 * The if...else statment check a condition, if it resolves to **true** the first code block is executed.
 if the condition resolves to **false** the second code block is run instead.
 
-[If-Else-statment](if-else.jpg)
+![If-Else-statment](if-else.jpg)
 
 * USING IF ... ELSE STATEMENTS
 if ... else statement al lows you to provide two sets of code:
 1. one set if the condition evaluates to true.
 2. another set if the condition is false.
 
-[If-Else-Example](images/if-example.jpg)
+![If-Else-Example](images/if-example.jpg)
 
 ## SWITCH STATEMENTS
 * A switch statement starts with a variable called the **switch value**. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
 
-[Switch](images/switch.jpg)
+![Switch](images/switch.jpg)
 
-[If-Else.vs.Switch](images/if-switch.jpg)
+![If-Else.vs.Switch](images/if-switch.jpg)
 
 * USING SWITCH STATEMENTS
 The purpose of the switch statement is to present the user with a different message depending on which level they are at.
@@ -238,7 +238,7 @@ The purpose of the switch statement is to present the user with a different mess
 
 * JavaScript is said to use weak typing because the data type for a value can change.
 
-[Data-Type](images/data-type/jpg)
+![Data-Type](images/data-type/jpg)
 
 ## TRUTHY & FALSY VALUES
 * Due to type coercion, every value in JavaScript can be treated as if it were true or false; and this has some interesting side effects.
@@ -246,19 +246,19 @@ The purpose of the switch statement is to present the user with a different mess
 * *Falsy values* are treated as if they are false.
 * *Falsy values* can also be treated as the number 0 .
 
-[Falsy-VALUE](images/falsy-value.jpg)
+![Falsy-VALUE](images/falsy-value.jpg)
 
 * *Truthy values* are treated as if they are true.
 * *Truthy* values can also be treated as the number 1.
 
-[Truthy-Value](images/truthy-value.jpg)
+![Truthy-Value](images/truthy-value.jpg)
 
 ## CHECKING EQUALITY & EXISTENCE
 * A **unary operator** returns a result with just one operand.
 
 * Because of **type coercion**, the strict **equality operators** *===* and *! ==* result in fewer unexpected values than *==* and *! = do*.
 
-[Checking-Equality](images/checking-equality.jpg)
+![Checking-Equality](images/checking-equality.jpg)
 
 ## SHORT CIRCUIT VALUES
 * **Logical operators** are processed left to right.
