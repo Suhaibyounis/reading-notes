@@ -12,7 +12,7 @@
 
 ![List](images/list.jpg)
 
-## Unordered Lists
+## Unordered Lists 
 * The unordered list is created with the < ul> element.
 * Each item in the list is placed between an opening < li> tag and a closing </ li> tag.
 
