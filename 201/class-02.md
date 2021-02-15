@@ -78,7 +78,7 @@ The < ins> element can be used to show content that has been inserted into a doc
 
 The < s> element indicates something that is no longer accurate or relevant (but that should not be deleted).
 
-[Example](201/images/html.jpg)
+[Example](images/html.jpg)
 
 ***
 
@@ -88,18 +88,18 @@ The < s> element indicates something that is no longer accurate or relevant (but
 
 * **CSS** allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
 
-[CSS-Example](201/images/css-example.jpg)
+[CSS-Example](images/css-example.jpg)
 
 * CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: **Selector** and **Declaration**. 
 
 * Selectors indicate which element the rule applies to.
 * Declarations indicate how the elements referred to in the selector should be styled.
 
-[Selector](201/images/selector.jpg)
+[Selector](images/selector.jpg)
 
 * CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
 
-[Properties](201/images/properties.jpg)
+[Properties](images/properties.jpg)
 
 ## Using External CSS
 * < link>:  The < link> element can be used in an HTML document to tell  he browser where to find the CSS file used to style the page.
@@ -107,7 +107,7 @@ The < s> element indicates something that is no longer accurate or relevant (but
 * < type>: This attribute specifies the type of document being linked to.
 * < rel> : This specifies the relationship between the HTML page and the file it is linked to.
 
-[External-CSS](201/images/external-css.jpg)
+[External-CSS](images/external-css.jpg)
 
 ## Using Internal CSS
 < style> You can also include CSS rules within an HTML page by placing them inside a < style> element, which usually sits inside the < head> element of the page.
@@ -117,11 +117,11 @@ The < s> element indicates something that is no longer accurate or relevant (but
 * Keeps the content separate from how the page looks.
 * Means you can change the styles used across all pages by altering just one file (rather than each individual page)
 
-[Internal-CSS](201/images/internal-css.jpg)
+[Internal-CSS](images/internal-css.jpg)
 
 ## CSS Selectors
 
-[CSS-Selector](201/images/css-selector.jpg)
+[CSS-Selector](images/css-selector.jpg)
 
 ***
 
@@ -159,7 +159,7 @@ Some statements are surrounded by curly braces; these are known as code blocks. 
 * You should write comments to explain what your code does.
 * They help make your code easier to read and understand.
 
-[Comments](201/images/comments.jpg)
+[Comments](images/comments.jpg)
 
 ### Types of Comments: 
 * Multi-Line Comments
@@ -182,7 +182,7 @@ Some statements are surrounded by curly braces; these are known as code blocks. 
 ### Declaring Variables
 * When you create the Variable, you should give it a special **Name**.
 
-[variable](201/images/variable.jpg)
+[variable](images/variable.jpg)
 
 * Assign Value to Variable.
 
@@ -206,11 +206,11 @@ Quantity = 3;
 ## USING A VARIABLE TO STORE :
 1. A NUMBER
 
-[Assign-Variable-number](201/images/assign-variable.jpg)
+[Assign-Variable-number](images/assign-variable.jpg)
 
 2. A STRING
 
-[Assign-Variable-string](201/images/assign-variable-string.jpg)
+[Assign-Variable-string](images/assign-variable-string.jpg)
 
 * Quotes inside **String**
     * If you just want to use double quotes in the string, you could surround the entire string in single quotes, and the same for single quotes.
@@ -220,7 +220,7 @@ Escaping the quotation characters. This is done by using a backwards slash (or "
 
 3. A BOOLEAN
 
-[BOOLEAN](201/images/boolean.jpg)
+[BOOLEAN](images/boolean.jpg)
 
 ## Declaring Variable:
 
@@ -232,7 +232,7 @@ Escaping the quotation characters. This is done by using a backwards slash (or "
 
 4. variable is used to hold a reference to an element in the HTML page. This allows you to work directly with the element stored in that variable.
 
-[VARIABLE-DECLARING](201/images/variable-declaring.jpg)
+[VARIABLE-DECLARING](images/variable-declaring.jpg)
 
 ### RULES FOR NAMING VARIABLES
 
@@ -260,11 +260,11 @@ Escaping the quotation characters. This is done by using a backwards slash (or "
 * Types of expressions?
 1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE.
 
-[Expression1](201/images/expression1.jpg)
+[Expression1](images/expression1.jpg)
 
 2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE.
 
-[Expression2](201/images/expression2.jpg)
+[Expression2](images/expression2.jpg)
 
 ## OPERATORS
 * Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
@@ -284,7 +284,7 @@ Type of Operators:
 
 *  ARITHMETIC OPERATORS
 
-[Arithmetic-Operators](201/images/arithmetic-operators.jpg)
+[Arithmetic-Operators](images/arithmetic-operators.jpg)
 
 * STRING OPERATOR
 * There is just one string operator: the+ symbol.
@@ -292,10 +292,10 @@ Type of Operators:
 
 **Concatenation** : the process of joining together two or more strings to create one new string.
 
-[String-Operator](201/images/string-operators.jpg)
+[String-Operator](images/string-operators.jpg)
 
 
-[Javascript-Example](201/images/javascript-example.jpg)
+[Javascript-Example](images/javascript-example.jpg)
 
 ***
 ***
@@ -303,14 +303,14 @@ Type of Operators:
 
 # Decisions and Loops
 
-[Decisions-&-Loops](201/images/loops.jpg)
+[Decisions-&-Loops](images/loops.jpg)
 
 ## Components to a decisions: 
 
 1. Evaluation of a Condition.
 2. Conditional Statements.
 
-[Condition](201/images/condition.jpg)
+[Condition](images/condition.jpg)
 
 ## Comparison Operators
 1. Equal to " == "
