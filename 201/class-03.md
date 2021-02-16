@@ -47,7 +47,7 @@
 1. To set your own dimensions for a box you can use the height and width properties.
 2. The most popular ways to specify the size of a box are to use pixels, percentages, or ems.
 
-![Box-Dimensions](images/box-dimensions.jpg)
+![Box-Dimension](images/box-dimension.jpg)
 
 ## Limiting Width
 * min-width, max-width
@@ -212,7 +212,7 @@ the gap between boxes. Its value is commonly given in pixels, although you may a
 * The if...else statment check a condition, if it resolves to **true** the first code block is executed.
 if the condition resolves to **false** the second code block is run instead.
 
-![If-Else-statment](if-else.jpg)
+![If-Else-statment](images/if-else.jpg)
 
 * USING IF ... ELSE STATEMENTS
 if ... else statement al lows you to provide two sets of code:
@@ -238,7 +238,7 @@ The purpose of the switch statement is to present the user with a different mess
 
 * JavaScript is said to use weak typing because the data type for a value can change.
 
-![Data-Type](images/data-type/jpg)
+![Data-Type](images/data-type.jpg)
 
 ## TRUTHY & FALSY VALUES
 * Due to type coercion, every value in JavaScript can be treated as if it were true or false; and this has some interesting side effects.
