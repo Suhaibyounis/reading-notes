@@ -21,7 +21,7 @@ Links are created using the < a> element. Users can click on anything between th
 
 * Browsers show links in **blue** with an **underline** by default.
 
-[Links](images/links/jpg)
+[Links](images/links.jpg)
 
 ## Linking to Other Pages on the Same Site
 * When you are linking to other pages within the same site, you do not need to specify the domain name in the URL. You can use a shorthand known as a **relative URL**.
@@ -60,7 +60,7 @@ Links are created using the < a> element. Users can click on anything between th
 
 * When you are linking to a page on your own website, you do not need to specify **the domain name**. You can use **relative URLs** which are a shorthand way to tell the browser where a page is in relation to the current page.
 
-[Relative-URL](images/relative-url/jpg)
+[Relative-URL](images/relative-url.jpg)
 
 5. Email Links 
 * To create a link that starts up the user's email program and addresses an email to a specified email address, you use the < a> element.
@@ -315,7 +315,7 @@ Its giving the function name and then write the statements needed to achieve its
 * Giving the function a **name** followed by parentheses.
 * The **statement** that perform the task sit in a code block
 
-[Declaring-Function](declaringfunction.jpg)
+[Declaring-Function](images/declaringfunction.jpg)
 
 ***
 
