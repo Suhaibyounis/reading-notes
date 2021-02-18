@@ -27,7 +27,7 @@ Links are created using the < a> element. Users can click on anything between th
 * When you are linking to other pages within the same site, you do not need to specify the domain name in the URL. You can use a shorthand known as a **relative URL**.
 * If all the pages of the site are in the same folder, then the value of the **href attribute is just the name of the file**.
 
-[linking-to-other-page](image/linking-to-other-page.jpg)
+[linking-to-other-page](images/linking-to-other-page.jpg)
 
 ## Directory Structure
 
