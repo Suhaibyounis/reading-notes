@@ -10,8 +10,8 @@
 2- | [HTML-Text-CSS-Introduction-and-Basic-JavaScript-Instructions](https://suhaibyounis.github.io/reading-notes/201/class-02) | 15-02-2021
 3- | [HTML-Lists-Control-FlowWith-JS-and-theCSS-Box-Model](https://suhaibyounis.github.io/reading-notes/201/class-03) |   16-02-2021
 4- | [HTML-Links-CSS-Layout-JS-Functions](https://suhaibyounis.github.io/reading-notes/201/class-04)|  17-02-2021 
-5- |  |   
-6- |  |   
+5- |[HTML-Images_CSS-Color-Text] (https://suhaibyounis.github.io/reading-notes/201/class-05) | 18-02-2021   
+6- |[JS-Object-Literals-The-DOM] (https://suhaibyounis.github.io/reading-notes/201/class-06)  |   21-02-2021
 7- |  |   
 8- |  |   
 9- |  |   
