@@ -13,7 +13,7 @@
 5- | [HTML-Images_CSS-Color-Text](https://suhaibyounis.github.io/reading-notes/201/class-05) | 18-02-2021   
 6- | [JS-Object-Literals-The-DOM](https://suhaibyounis.github.io/reading-notes/201/class-06)  |   21-02-2021
 7- | [HTML-Tables-JS-Constructor-Functions](https://suhaibyounis.github.io/reading-notes/201/class-07)  | 22-02-2021   
-8- |  |   
+8- | [More-CSS-Layout](https://suhaibyounis.github.io/reading-notes/201/class-08)  |   23-02-2021
 9- |  |   
 10- |  |  
 11- |  |  
