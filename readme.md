@@ -14,7 +14,7 @@
 6- | [JS-Object-Literals-The-DOM](https://suhaibyounis.github.io/reading-notes/201/class-06)  |   21-02-2021
 7- | [HTML-Tables-JS-Constructor-Functions](https://suhaibyounis.github.io/reading-notes/201/class-07)  | 22-02-2021   
 8- | [More-CSS-Layout](https://suhaibyounis.github.io/reading-notes/201/class-08)  |   23-02-2021
-9- |  |   
+9- | [Forms-and-Events](https://suhaibyounis.github.io/reading-notes/201/class-09) |   24-02-2021
 10- |  |  
 11- |  |  
 12-  |  |  
