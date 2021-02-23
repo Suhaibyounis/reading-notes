@@ -103,13 +103,3 @@ All CSS List Properties
 [MouseEvent](images/mouseevent.png)
 
 
-
-
-
-
-
-
-
-
-
-
