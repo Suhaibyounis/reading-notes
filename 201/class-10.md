@@ -17,9 +17,9 @@ error is located, so you can try to find the exact error.
 
 ### ERROR OBJECTS CONTINUED
 
-[Errors](images/error.jpg)
+[Errors](images/errors.jpg)
 
-[Errors1](images/errors1.jpg)
+[Errors1](images/error1.jpg)
 
 * HOW TO DEAL WITH ERRORS?
 
