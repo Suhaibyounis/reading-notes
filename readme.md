@@ -16,9 +16,9 @@
 8- | [More-CSS-Layout](https://suhaibyounis.github.io/reading-notes/201/class-08)  |   23-02-2021
 9- | [Forms-and-Events](https://suhaibyounis.github.io/reading-notes/201/class-09) |   24-02-2021
 10- | [Debugging](https://suhaibyounis.github.io/reading-notes/201/class-10) |  25-02-2021
-11- | [Assorted Topics](https://suhaibyounis.github.io/reading-notes/201/class-11)  |  27-02-2021
-12-  | [<canvas>-Element-&-Chart-js](https://suhaibyounis.github.io/reading-notes/201/class-12) |  28-02-2021
-13-  |  |  
+11- | [Assorted Topics](https://suhaibyounis.github.io/reading-notes/201/class-11)  |  28-02-2021
+12-  | [<canvas>-Element-&-Chart-js](https://suhaibyounis.github.io/reading-notes/201/class-12) |  01-03-2021
+13-  | [Local Storage](https://suhaibyounis.github.io/reading-notes/201/class-13) |  02-03-2021
 14-  |  |  
 15-  |  |  
 
