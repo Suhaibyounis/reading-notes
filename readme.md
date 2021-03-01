@@ -19,8 +19,8 @@
 11- | [Assorted Topics](https://suhaibyounis.github.io/reading-notes/201/class-11)  |  28-02-2021
 12-  | [<canvas>-Element-&-Chart-js](https://suhaibyounis.github.io/reading-notes/201/class-12) |  01-03-2021
 13-  | [Local Storage](https://suhaibyounis.github.io/reading-notes/201/class-13) |  02-03-2021
-14-  |  |  
-15-  |  |  
+14-  | [CSS-Transforms-Transitions,-and-Animations](https://suhaibyounis.github.io/reading-notes/201/class-14a)  |  03-03-2021
+15-  | [What-Google-Learned-About-Teams](https://suhaibyounis.github.io/reading-notes/201/class-14b) |  03-03-2021
 
 
  **Code 102 Reading Notes**
