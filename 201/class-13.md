@@ -57,9 +57,9 @@ Limitations in current browsers:
 
 ### HTML5 in action
 
-[HTML-in-Action](images/htmlInAction.jpg)
+[HTML-in-Action](images/htmlInAction.png)
 
-[Inaction](images/inaction.jpg)
+[Inaction](images/inaction.png)
 
 
 * In the saveGameState() function, we did not worry about the data type:
@@ -77,7 +77,7 @@ Limitations in current browsers:
 
 ### Beyond Key/Value Pairs: Competing Visions
 
-[Beyond](images/beyond.jpg)
+[Beyond](images/beyond.png)
 
 ### Web SQL Database
 
